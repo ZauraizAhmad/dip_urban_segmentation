@@ -22,5 +22,11 @@ We used the Cityscapes dataset. Instructions to download: [https://www.cityscape
 
 ![Poster](poster/Project_Poster.png)
 
+## 📄 LaTeX Report on Overleaf
+
+You can view the LaTeX source and final report here:  
+🔗 [Overleaf Report Link](https://www.overleaf.com/read/bnfdgfptgtgj#232bb5)
+
+
 ## 📜 License
 This project is licensed under the MIT License.
