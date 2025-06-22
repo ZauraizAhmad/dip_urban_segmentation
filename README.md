@@ -20,7 +20,7 @@ We used the Cityscapes dataset. Instructions to download: [https://www.cityscape
 
 ## 🖼 Poster Preview
 
-![Poster](poster/DIP_Project_Poster.png)
+![Poster](poster/Project_Poster.png)
 
 ## 📜 License
 This project is licensed under the MIT License.
