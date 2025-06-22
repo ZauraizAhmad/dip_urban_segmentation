@@ -18,5 +18,9 @@ This project explores classical image processing techniques using MATLAB on the 
 ## 📂 Dataset
 We used the Cityscapes dataset. Instructions to download: [https://www.cityscapes-dataset.com](https://www.cityscapes-dataset.com)
 
+## 🖼 Poster Preview
+
+![Poster](poster/DIP_Project_Poster.png)
+
 ## 📜 License
-MIT License (see LICENSE file)
+This project is licensed under the MIT License.
