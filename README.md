@@ -10,10 +10,10 @@ This project explores classical image processing techniques using MATLAB on the 
 - `report/` – Final PDF report
 
 ## 👥 Team Members
-- Zauraiz Ahmad – Lead Developer
-- Adan Mehdi – Frequency Filtering
-- Hamza Irshad – Labeling & Formatting
-- Fatima Nawaz – Dataset & Testing
+- Muhammad Zauraiz Ahmad – F2023266573
+- Syed Muhammad Adan Mehdi – F2023266584
+- Hamza Irshad - F2023266483
+- Fatima Nawaz - F2023266486
 
 ## 📂 Dataset
 We used the Cityscapes dataset. Instructions to download: [https://www.cityscapes-dataset.com](https://www.cityscapes-dataset.com)
