@@ -1,7 +1,0 @@
-1. Input Image
-2. Spatial Filtering (Gaussian, Median, Mean)
-3. Frequency Filtering (Low-pass using FFT)
-4. Restoration (Wiener Filter or Motion Deblur)
-5. Segmentation (Canny + Watershed)
-6. Compression (JPEG quality comparison)
-7. Output Saving
