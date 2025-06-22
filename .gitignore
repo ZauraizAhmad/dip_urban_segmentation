@@ -1,0 +1,30 @@
+# Ignore temporary files
+*.asv
+*.autosave
+*.bak
+*.tmp
+*.log
+*.aux
+*.out
+*.toc
+*.lof
+*.lot
+*.gz
+
+# Ignore MATLAB generated files
+*.fig
+*.mat
+*.mex*
+*.mlappinstall
+*.mlpkginstall
+
+# Ignore LaTeX temp files
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Ignore OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
