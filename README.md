@@ -25,7 +25,7 @@ We used the Cityscapes dataset. Instructions to download: [https://www.cityscape
 ## 📄 LaTeX Report on Overleaf
 
 You can view the LaTeX source and final report here:  
-🔗 [Overleaf Report Link](https://www.overleaf.com/read/bnfdgfptgtgj#232bb5)
+[View Report](Report%20Material/Object_Detection_And_Segmentation_in_Urban_Scenes_using_MATLAB___Group_5.pdf)
 
 
 ## 📜 License
